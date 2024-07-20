@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ezitech Internship Webpage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="banner">
+        <div class="navbar">
+            <img src="assets/logo.jpg" class="logo">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Certifications</a></li>
+                <li><a href="#">Internships</a></li>
+                <li><a href="#">Seminars</a></li>
+                <li><a href="#">Tech Blogs</a></li>
+                <li><a href="#" id="login-btn">Login</a></li>
+                <li><a href="#" id="register-btn">Register</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="content">
+        <h1>Welcome to our Internships Program</h1>
+        <p class="tagline">Where Similar Dreams Meet Unique Opportunities</p>
+        <p>Experience the future of IT with Ezitech's internship program, in collaboration with the acclaimed Eziline Software House. Dive<br>into dynamic projects, gain invaluable insights, and accelerate your journey towards becoming an IT maestro.</p>
+        <div>
+            <button type="button" class="action-btn"><span></span>Register Now</button>
+        </div>
+        <div>
+            <button type="button" class="action-btn"><span></span>Need Help? Chat with us</button>
+        </div>
+    </div>
+    <div id="login-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Login</h2>
+            <form>
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+                <button type="submit" class="submit-btn">Login</button>
+            </form>
+        </div>
+    </div>
+    <div id="register-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Register</h2>
+            <form>
+                <label for="new-username">Username:</label>
+                <input type="text" id="new-username" name="new-username" required>
+                <label for="new-password">Password:</label>
+                <input type="password" id="new-password" name="new-password" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <button type="submit" class="submit-btn">Register</button>
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
