@@ -26,7 +26,6 @@ To view or modify the Ezitech Internship Webpage, follow these steps:
    ```bash
    git clone https://github.com/inayatrahimdev/Ezitech-Internship-Webpage.git
 ## Navigate to the Project Directory:
-
 ```bash
 cd Ezitech-Internship-Webpage
 
