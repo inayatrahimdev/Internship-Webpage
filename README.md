@@ -28,7 +28,7 @@ To view or modify the Ezitech Internship Webpage, follow these steps:
 ## Navigate to the Project Directory:
 ```bash
 cd Ezitech-Internship-Webpage
-
+'''
 
 ## Customization
 
