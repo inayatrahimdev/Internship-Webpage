@@ -30,13 +30,13 @@ To view or modify the Ezitech Internship Webpage, follow these steps:
 ```bash
 cd Ezitech-Internship-Webpage
 
-Customization
+## Customization
 Feel free to customize the webpage to better suit your needs:
 
-Background Image: Replace background.jpg with your own image to change the visual theme.
+## Background Image: Replace background.jpg with your own image to change the visual theme.
 Styling: Modify styles.css to update the styling and layout as desired.
 Contributing
 Contributions are welcome! If you have suggestions for improvements or have found a bug, please open an issue or submit a pull request.
 
-Contact
+## Contact
 For any inquiries or further information, please reach out to Inayat Rahim.
