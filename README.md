@@ -39,4 +39,4 @@ Contributions are welcome! If you have suggestions for improvements or have foun
 
 ## Contact
 
-For any inquiries or further information, please reach out to Inayat Rahim.
+For any inquiries or further information, please reach out to inayatrahim006@gmail.com.
