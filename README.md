@@ -1,10 +1,10 @@
-# Ezitech Internship Webpage
+# Internship Webpage
 
-Welcome to the Ezitech Internship Webpage repository! This project is a modern, visually appealing web page created to showcase the internship program offered by Ezitech. It is built using HTML and CSS and javascript, featuring a captivating background image to provide an engaging user experience.
+Welcome to the Internship Webpage repository! This project is a modern, visually appealing web page created to showcase the internship program offered by Ezitech. It is built using HTML and CSS and javascript, featuring a captivating background image to provide an engaging user experience.
 
 ## Project Overview
 
-The Ezitech Internship Webpage is designed to provide prospective interns with all the essential information about the internship program, including program details, application procedures, and company highlights. The webpage is crafted to be both professional and visually striking, making it an excellent introduction to Ezitech's internship opportunities.
+The Internship Webpage is designed to provide prospective interns with all the essential information about the internship program, including program details, application procedures, and company highlights. The webpage is crafted to be both professional and visually striking, making it an excellent introduction to Ezitech's internship opportunities.
 
 ## Features
 
@@ -20,7 +20,7 @@ The Ezitech Internship Webpage is designed to provide prospective interns with a
 
 ## Getting Started
 
-To view or modify the Ezitech Internship Webpage, follow these steps:
+To view or modify the Internship Webpage, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
